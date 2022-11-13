@@ -1,0 +1,30 @@
+testPQ: 
+Results:Average bitrate:500000.0buffer time:91.115switches:0
+Score:4669.348620686024
+
+
+testALThard: 
+Results:Average bitrate:2600000.0buffer time:19.751switches:28
+Score:91422.1523596769
+
+
+testALTsoft: 
+Results:Average bitrate:4100000.0buffer time:5.948000000000001switches:9
+Score:1426836.8172498895
+
+
+testHD: 
+Results:Average bitrate:4700000.0buffer time:0.101switches:1
+Score:4301656.912826439
+
+
+testHDmanPQtrace: 
+Results:Average bitrate:500000.0buffer time:91.115switches:0
+Score:4669.348620686024
+
+
+badtest: 
+Your trace file is poorly formed!Results:Average bitrate:2600000.0buffer time:19.751switches:28
+Score:91422.1523596769
+
+
