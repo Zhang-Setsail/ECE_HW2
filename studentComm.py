@@ -1,7 +1,7 @@
 import socket
 import json
-# import tee as studentcode
-import studentcodeExample as studentcode
+import Mycode as studentcode
+# import studentcodeExample as studentcode
 
 # Quick-and-dirty TCP Server:
 ss = socket.socket(socket.AF_INET, socket.SOCK_STREAM | socket.SOCK_CLOEXEC)
